@@ -7,5 +7,4 @@
     }
     //echo $vetor;
     //var_dump($vetor);
-    
 ?>

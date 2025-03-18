@@ -7,7 +7,6 @@
         }  
         return $vetor;
     }
-
     $recebe_vetor = gera_aleatorio();
     print_r($recebe_vetor);
 ?>
