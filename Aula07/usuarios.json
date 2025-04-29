@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Gin",
+        "email": "ginichimaru@email"
+    },
+    {
+        "id": 2,
+        "nome": "Sosuke",
+        "email": "sosukeaizen@email"
+    },
+    {
+        "id": null,
+        "nome": "Kenpachi",
+        "email": "kenpachizaraki@email"
+    },
+    {
+        "id": 3,
+        "nome": "Tumba",
+        "email": "éobarulhodomeubatendonasua@email"
+    }
+]
